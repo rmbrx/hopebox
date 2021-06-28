@@ -8,7 +8,7 @@
 
 ## 产品学习
 
-- [DevCloud](software/huawei/DevCloud.md)
+- [DevCloud](saas/huawei/DevCloud.md)
 
 ## 认证
 
