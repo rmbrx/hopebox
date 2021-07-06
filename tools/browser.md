@@ -18,3 +18,9 @@
 
 1. 不信任的证书，页面无法打开。
    解决方法：鼠标点击空白处，键盘输入thisisunsafe
+
+2. 使用`Command + L`切换到地址栏后，如何快速切换回页面？
+    - `Command + p`, `Esc` 退出打印。
+    - 三次 `⌘ + Option + Down`。
+    - `Command + ,`打开设置页, `Command + w` 关闭设置页。
+    - `Command + F` 搜索, 敲入关键字并回车, `Esc`退出搜索。
