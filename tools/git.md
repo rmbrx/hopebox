@@ -10,3 +10,11 @@
     [core]
         quotepath = false
     ```
+
+2. git 忽略目录，但不忽略其下某个文件
+    .gitignore如下配置，达到忽略node_modules目录，但不忽略其下fileSaver的效果。
+
+    ```markdown
+    /node_modules/*
+    !/node_modules/fileSaver
+    ```
