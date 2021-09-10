@@ -29,3 +29,7 @@
     ```
 
     检查发现，因为之前使用其他代码仓库时，因其证书问题，暂时不做验证（`git config http.sslVerify`为false），只要将其改成true即可:`git config --global http.sslVerify true`。
+
+## 在线资料
+
+[git-diff忽略^M.](https://blog.csdn.net/asdfgh0077/article/details/104157910)
